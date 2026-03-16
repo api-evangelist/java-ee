@@ -1,12 +1,26 @@
+aid: java-ee
 name: Java EE
-description: Java EE is a specialized technology or methodology in the java domain
-  that addresses specific technical or business requirements. It provides targeted
-  capabilities that help practitioners and organizations solve problems and improve
-  outcomes in their area of focus.
-url: null
+description: >-
+  Java EE (Java Platform, Enterprise Edition) was a set of specifications
+  extending the Java SE platform with specifications for enterprise features
+  such as distributed computing and web services. Java EE has since been
+  transferred to the Eclipse Foundation and rebranded as Jakarta EE.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-- Java EE
-created: '2025'
-modified: '2025'
+  - Java EE
+  - Java
+  - Enterprise
+  - Jakarta EE
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/java-ee/refs/heads/main/apis.yml
+created: '2025-01-01'
+modified: '2026-03-16'
+specificationVersion: '0.19'
 apis: []
-common: []
+common:
+  - type: Website
+    url: https://jakarta.ee/
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
