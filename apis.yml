@@ -8,10 +8,10 @@ description: >-
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - Java EE
-  - Java
   - Enterprise
   - Jakarta EE
+  - Java
+  - Java EE
 url: >-
   https://raw.githubusercontent.com/api-evangelist/java-ee/refs/heads/main/apis.yml
 created: '2025-01-01'
