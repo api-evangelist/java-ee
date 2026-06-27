@@ -29,7 +29,7 @@ common:
     name: Jakarta EE
     description: Current home of the Java EE platform under the Eclipse Foundation.
     url: https://jakarta.ee/
-  - type: Specifications
+  - type: Specification
     name: Jakarta EE Specifications
     description: Specifications for Jakarta EE platform, web, and core profiles.
     url: https://jakarta.ee/specifications/
