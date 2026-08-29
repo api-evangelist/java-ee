@@ -9,6 +9,17 @@ description: >-
   RESTful Web Services, JSON Processing, Persistence, CDI, Servlet, Security,
   and other enterprise Java specifications.
 type: Index
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
